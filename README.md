@@ -55,10 +55,10 @@ $ git clone https://github.com/Gabriel-souzaa/challenge_Fpass.git && cd challeng
 
 ```bash
 # Instale as dependências
-$ yarn
+$ npm i
 
 # inicie o projeto como dev
-$ yarn start:dev
+$ npm run start:dev
 
 # Se todos os passos foram seguidos corretamente a api deve ser iniciada
 ```
